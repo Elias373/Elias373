@@ -22,6 +22,7 @@ Currently expanding my skills into **test automation** by learning **Python** an
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF4A36?style=for-the-badge&logo=allure&logoColor=white)
 ![Selenoid](https://img.shields.io/badge/Selenoid-43B02A?style=for-the-badge&logo=docker&logoColor=white)
 
