@@ -17,14 +17,13 @@ Currently expanding my skills into **test automation** by learning **Python** an
 
 ### **Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selene](https://img.shields.io/badge/Selene-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF4A36?style=for-the-badge&logo=allure&logoColor=white)
 ![Selenoid](https://img.shields.io/badge/Selenoid-43B02A?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ## 🚀 My Projects
 
